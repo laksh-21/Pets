@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Insert Dummy Data"
+        android:id="@+id/insert_dummy_btn"/>
+    <item
+        android:title="Delete All Pets"
+        android:id="@+id/delete_all_btn"/>
+</menu>
